@@ -2,7 +2,7 @@
 ### Bem vindo ao meu perfil no GitHub.
 
 - Atualmente, estou aprendendo programação, estou a um pouco mais de um mês estudando.
-- Coloco os projetos mais importantes e mais interresantes, de minha autoria por aqui. Para acompanhar minha evolução e divulgar um pouco do meu
+- Coloco os projetos mais importantes e mais interessantes, de minha autoria por aqui. Para acompanhar minha evolução e divulgar um pouco do meu
 aprendizado.
 
 <div>
