@@ -5,14 +5,15 @@
 - Coloco os projetos mais importantes e mais interessantes, de minha autoria por aqui. Para acompanhar minha evolução e divulgar um pouco do meu
 aprendizado.
 
+- Estou Aprendendo: <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+
 <div>
 <a href="https://github.com/NathanMaier">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanMaier&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathanMaier&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
 </div>
 
-- Estou Aprendendo: <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
           
 
 ### Contatos:
