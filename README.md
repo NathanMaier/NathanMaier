@@ -1,7 +1,9 @@
 ## Olá, me chamo Nathan Maier !
 ### Bem vindo ao meu perfil no GitHub.
 
-- Atualmente, estou tentando aprender programação, começei pelo basico.
+- Atualmente, estou aprendendo programação, estou a um pouco mais de um mês estudando.
+- Coloco os projetos mais importantes e mais interresantes, de minha autoria por aqui. Para acompanhar minha evolução e divulgar um pouco do meu
+aprendizado.
 
 <div>
 <a href="https://github.com/NathanMaier">
